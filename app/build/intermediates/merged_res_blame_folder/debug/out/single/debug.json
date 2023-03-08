@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/navigation_navigation_graph.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/navigation/navigation_graph.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_search_header_layout.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/search_header_layout.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_nav_header_toolbar.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/nav_header_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_recyclview_background.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/recyclview_background.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_movie_item.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/movie_item.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_fragment_movies_details.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/fragment_movies_details.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/font_latoregular.ttf.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/font/latoregular.ttf"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_fragment_movies_list.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/fragment_movies_list.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_lock_open_black_24dp.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_lock_open_black_24dp.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-merged_res-57:/layout_fragment_movies_list.xml.flat",
+        "source": "com.yassir.movies.app-main-59:/layout/fragment_movies_list.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_activity_home.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_arrow_drop_down.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_arrow.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_arrow.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/font_poppinsbold.ttf.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/font/poppinsbold.ttf"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_logo_app.png.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/logo_app.png"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/font_latobold.ttf.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/font/latobold.ttf"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_lock_black_24dp.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_lock_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/xml_backup_rules.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/font_montserratbold.otf.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/font/montserratbold.otf"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/layout_activity_splash.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_search.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_close.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ouicoding/.gradle/daemon/7.4/com.yassir.movies.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]

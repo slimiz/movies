@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/search_header_layout.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/search_header_layout.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/movie_item.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/nav_header_toolbar.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/nav_header_toolbar.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/fragment_movies_details.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/fragment_movies_details.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/fragment_movies_list.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/fragment_movies_list.xml"
+    },
+    {
+        "merged": "com.yassir.movies.app-mergeReleaseResources-56:/layout/activity_home.xml",
+        "source": "com.yassir.movies.app-main-58:/layout/activity_home.xml"
+    }
+]

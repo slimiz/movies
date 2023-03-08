@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+
+
+    <string name="email">Email address</string>
+    <string name="receive_link_email">You will receive a link by email</string>
+    <string name="your_emaik">Your email</string>
+
+    <string name="notification">Allow notifications</string>
+
+
+    <string name="no_internet">Please check your Internet and try again</string>
+
+
+    <string name="search_articles_hint">Search</string>
+
+    <string name="exeption">Network call has failed for the following reason: </string>
+    <string name="nothing">No result found</string>
+
+</resources>

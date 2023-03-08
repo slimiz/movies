@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yassir.movies.app-mergeReleaseResources-55:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/ouicoding/.gradle/caches/transforms-3/2c37e83d10e0f911f82f7072bdfce16a/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
