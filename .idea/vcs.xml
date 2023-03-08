@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/travail-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/travail-ios/appy-me-update-ios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/travail-ios/appy-me-update-ios-by-slim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/travail-ios/as-logistique-ios-update-courier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/travail-ios/billy-application-update-ios" vcs="Git" />
+  </component>
+</project>
