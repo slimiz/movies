@@ -34,14 +34,14 @@ class LocalModule {
 
     @Singleton
     @Provides
-    fun provideOrderMapper(): EntityMapper<MovieEntity, MovieModel> {
+    fun provideMovieMapper(): EntityMapper<MovieEntity, MovieModel> {
         return MovieMapper()
     }
 
 
     @Provides
     @Singleton
-    fun provideOrdersDao(appDatabase: MovieDatabase): MoviesDao {
+    fun provideMovieDao(appDatabase: MovieDatabase): MoviesDao {
         return appDatabase.movieDao()
     }
 
